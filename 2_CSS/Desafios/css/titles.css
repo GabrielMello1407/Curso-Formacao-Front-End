@@ -1,0 +1,19 @@
+h4{
+  padding: 0;
+  margin: 0;
+  color: white;
+  background-color: black;
+}
+#box-model{
+  background-color: black;
+  padding: 15px 25px;
+  border: 20px solid #ffff00;
+  outline: 5px solid white;
+  margin: 20px;
+}
+.text{
+  color: #000;
+  background-color: #ffff00;
+  border: none;
+  
+}
