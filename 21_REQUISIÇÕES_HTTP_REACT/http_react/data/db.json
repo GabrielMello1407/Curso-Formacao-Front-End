@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50.50",
+      "id": 5
+    },
+    {
+      "name": "teclado",
+      "price": "60",
+      "id": 6
+    },
+    {
+      "name": "aaa",
+      "price": "sss",
+      "id": 8
+    },
+    {
+      "name": "aaa",
+      "price": "1",
+      "id": 9
+    },
+    {
+      "name": "Testando produto",
+      "price": "200",
+      "id": 10
+    }
+  ]
+}
